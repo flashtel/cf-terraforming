@@ -1,4 +1,4 @@
-module github.com/cloudflare/cf-terraforming
+module github.com/flashtel/cf-terraforming
 
 go 1.12
 
